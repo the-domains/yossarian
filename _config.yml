@@ -2,7 +2,6 @@ name: yossarian
 favicon: null
 layout_spectrum: 0.9406059409957379
 typography_spectrum: 0.5579430446960032
-title: Test
 cta:
   domain: null
   bucket: null
